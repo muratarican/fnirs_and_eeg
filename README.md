@@ -19,7 +19,7 @@ Open access dataset for simultaneous EEG and NIRS brain-computerinterface (BCI)
 <p></p>
 <p></p>
 <p><b>Features:</b> Calculate faetures <i>-function file</i></p>
-<p><b>Main:</b> weighting and classifier code</p>
+<p><b>classifier:</b> weighting and classifier code</p>
 <p><b>kmcc:</b> K-Means Clustering Centers Based Attribute Weighting Method <i>-function file</i></p>
 <p><b>kmccd:</b> K-Means Clustering Centers Difference Based Attribute Weighting Method <i>-function file</i></p>
 <p><b>kNN_trainClassifier_3:</b>kNN classifier code for up to 504 features <i>-function file</i></p>
